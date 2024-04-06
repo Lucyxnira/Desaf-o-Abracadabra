@@ -9,10 +9,10 @@ Página de inicio
 ![alt text](image.png)
 
 No coincidencia
-![alt text](<Captura de pantalla 2024-04-06 195343.png>)
+![alt text](no_coincidencia.png)
 
 Coincidencia
-![alt text](<Captura de pantalla 2024-04-06 195713.png>)
+![alt text](coincidencia.png)
 
 Autores
 Katherine Medina https://github.com/Lucyxnira/
